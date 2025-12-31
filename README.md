@@ -1,3 +1,7 @@
+originaly we had a GZDoom fork for our game but it appears that now it s considered historical so we are just gonna move to uzdoom ig
+
+also dw im gonna update this readme soon
+
 <div align="center">
 
 [ <img src="branding/UZDoom-BG.svg" alt="UZDoom Icon" style="height: 8em; width: 100%" /> ][repo]
